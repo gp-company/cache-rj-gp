@@ -62,3 +62,11 @@
 - **Lu Sampaio**  
   Localização: Méier  
   [https://gparena.net/td-show.php?t=10283](https://gparena.net/td-show.php?t=10283)
+
+- **Gaby Furtado**  
+  Localização: Centro  
+  [https://www.gparena.net/td-show.php?t=5920](https://www.gparena.net/td-show.php?t=5920)
+
+- **Loren Andrade**  
+  Localização: Largo do Machado  
+  [https://gparena.net/td-show.php?t=5657](https://gparena.net/td-show.php?t=5657)
