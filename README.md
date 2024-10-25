@@ -105,13 +105,7 @@
   Localização: Centro  
   [https://gparena.net/td-show.php?t=3057](https://gparena.net/td-show.php?t=3057)
 
-- **Julia Araújo**  
-  Localização: Centro  
-  [https://gparena.net/td-show.php?t=4568](https://gparena.net/td-show.php?t=4568)
 
-- **Ariella Miller**  
-  Localização: Centro  
-  [https://gparena.net/td-show.php?t=3355](https://gparena.net/td-show.php?t=3355)
 
 - **Barbie Sereia**  
   Localização: Centro  
@@ -135,6 +129,11 @@
   [https://gparena.net/social-feed-user.php?id=24874](https://gparena.net/social-feed-user.php?id=24874)
 
 ### R$ 200/h
+
+- **Julia Araújo**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=4568](https://gparena.net/td-show.php?t=4568)
+
 
 - **Alice Tijuca**  
   Localização: Tijuca  
@@ -183,14 +182,14 @@
   Localização: Centro  
   [https://gparena.net/td-show.php?t=4](https://gparena.net/td-show.php?t=4)
 
+  - **Stella**  
+  Localização: Centro - AA37 
+  [[ ](https://www.rioencontro.com.br/stella/)]([https://gparena.net/td-show.php?t=4](https://www.rioencontro.com.br/stella/))
+
 ### R$ 250/h
 - **Pamela**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=1580](https://gparena.net/td-show.php?t=1580)
-
-- **Beatriz V**  
-  Localização: Centro  
-  [https://gparena.net/td-show.php?t=1567](https://gparena.net/td-show.php?t=1567)
 
 - **Julia Oliveira**  
   Localização: Centro  
@@ -210,6 +209,11 @@
   [https://gparena.net/td-show.php?t=3849](https://gparena.net/td-show.php?t=3849)
 
 ### R$ 400/h
+
+- **RAFAELA PAULISTA**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=1567](https://gparena.net/td-show.php?t=1567)
+
 - **Oceano**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=367](https://gparena.net/td-show.php?t=367)
