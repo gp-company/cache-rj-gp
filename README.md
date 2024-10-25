@@ -1,9 +1,6 @@
 ## Lista de Locais e Valores por Hora
 
 ### R$ 100/h
-- **Diego House**  
-  Localização: Jacarepaguá  
-  [https://gparena.net/td-show.php?t=6582](https://gparena.net/td-show.php?t=6582)
 
 - **Maitê Brandão**  
   Localização: Centro  
@@ -15,6 +12,11 @@
   [https://gparena.net/td-show.php?t=8018](https://gparena.net/td-show.php?t=8018)
 
 ### R$ 120/h
+
+- **Diego House**  
+  Localização: Jacarepaguá  
+  [https://gparena.net/td-show.php?t=6582](https://gparena.net/td-show.php?t=6582)
+
 - **Angel Garcia**  
   Localização: Centro  
   [https://www.gparena.net/social-feed-user.php?id=22455](https://www.gparena.net/social-feed-user.php?id=22455)  
@@ -75,9 +77,6 @@
   [https://gparena.net/social-feed-user.php?id=27081](https://gparena.net/social-feed-user.php?id=27081)
 
 ### R$ 170/h
-- **Brenda Baby**  
-  Localização: S/local  
-  [https://gparena.net/td-show.php?t=2679](https://gparena.net/td-show.php?t=2679)
 
 - **Horus Terapias**  
   Localização: Tijuca  
@@ -92,6 +91,11 @@
   [https://gparena.net/td-show.php?t=196](https://gparena.net/td-show.php?t=196)
 
 ### R$ 180/h
+
+- **Brenda Baby**  
+  Localização: S/local  
+  [https://gparena.net/td-show.php?t=2679](https://gparena.net/td-show.php?t=2679)
+
 - **Onix**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=5](https://gparena.net/td-show.php?t=5)
