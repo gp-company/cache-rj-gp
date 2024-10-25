@@ -10,6 +10,15 @@
   Localização: Centro  
   [https://gparena.net/td-show.php?t=3741](https://gparena.net/td-show.php?t=3741)
 
+- **Centro Bellas**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=121](https://gparena.net/td-show.php?t=121)
+
+### R$ 170/h
+- **Horus Terapias**  
+  Localização: Tijuca  
+  [https://gparena.net/td-show.php?t=2204](https://gparena.net/td-show.php?t=2204)
+
 ### R$ 180/h
 - **Onix**  
   Localização: Centro  
