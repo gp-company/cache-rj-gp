@@ -1,2 +1,16 @@
-# cache-rj-gp
-Sistema otimizado para ajustes rápidos e transparentes, permitindo que cada acompanhante defina valores conforme disponibilidade e duração do encontro. Mudanças refletem em tempo real, oferecendo flexibilidade e clareza para uma experiência personalizada.
+## Lista de Locais e Valores por Hora
+
+### R$ 100/h
+- **Diego House**  
+  Localização: Jacarepaguá  
+  [https://gparena.net/td-show.php?t=6582](https://gparena.net/td-show.php?t=6582)
+
+### R$ 150/h
+- **Dark Room**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=3741](https://gparena.net/td-show.php?t=3741)
+
+### R$ 180/h
+- **Onix**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=5](https://gparena.net/td-show.php?t=5)
