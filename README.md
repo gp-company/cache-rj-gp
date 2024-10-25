@@ -14,6 +14,17 @@
   Localização: Centro  
   [https://gparena.net/td-show.php?t=121](https://gparena.net/td-show.php?t=121)
 
+- **Luna Chaveirinho**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=9234](https://gparena.net/td-show.php?t=9234)  
+  [Perfil social](https://gparena.net/social-feed-user.php?id=22057)
+
+- **Anne Souza**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=8539](https://gparena.net/td-show.php?t=8539)  
+  [Perfil social](https://gparena.net/social-feed-user.php?id=21445)  
+  *(No final do ano, informou que ainda estava na ativa com esse valor, mas pode estar desatualizado)*
+
 ### R$ 170/h
 - **Horus Terapias**  
   Localização: Tijuca  
@@ -23,3 +34,19 @@
 - **Onix**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=5](https://gparena.net/td-show.php?t=5)
+
+### R$ 200/h
+- **Gabi Torres**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=8531](https://gparena.net/td-show.php?t=8531)  
+  [Perfil social](https://gparena.net/social-feed-user.php?id=22276)
+
+- **Yvy**  
+  Localização: Largo do Machado  
+  [https://gparena.net/td-show.php?t=8005](https://gparena.net/td-show.php?t=8005)  
+  [Perfil social](https://gparena.net/social-feed-user.php?id=23882)
+
+- **Babi Andrade**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=8588](https://gparena.net/td-show.php?t=8588)  
+  [Perfil social](https://gparena.net/social-feed-user.php?id=20436)
