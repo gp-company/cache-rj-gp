@@ -25,10 +25,18 @@
   [Perfil social](https://gparena.net/social-feed-user.php?id=21445)  
   *(No final do ano, informou que ainda estava na ativa com esse valor, mas pode estar desatualizado)*
 
+- **Carlinha**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=3287](https://gparena.net/td-show.php?t=3287)
+
 ### R$ 170/h
 - **Horus Terapias**  
   Localização: Tijuca  
   [https://gparena.net/td-show.php?t=2204](https://gparena.net/td-show.php?t=2204)
+
+- **Lara X**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=6641](https://gparena.net/td-show.php?t=6641)
 
 ### R$ 180/h
 - **Onix**  
@@ -50,3 +58,7 @@
   Localização: Centro  
   [https://gparena.net/td-show.php?t=8588](https://gparena.net/td-show.php?t=8588)  
   [Perfil social](https://gparena.net/social-feed-user.php?id=20436)
+
+- **Lu Sampaio**  
+  Localização: Méier  
+  [https://gparena.net/td-show.php?t=10283](https://gparena.net/td-show.php?t=10283)
