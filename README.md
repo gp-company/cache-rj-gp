@@ -1,219 +1,387 @@
-## Lista de Locais e Valores por Hora
+# Locais e Valores por Hora
 
-### R$ 100/h
-
+## R$ 100/h
 - **Maitê Brandão**  
   Localização: Centro  
-  [https://gparena.net/tdfull.php?td=28395](https://gparena.net/tdfull.php?td=28395)
+  [Link](https://gparena.net/tdfull.php?td=28395)
 
 - **Cybele**  
   Localização: Nilópolis/RJ  
   R$ 100/h e R$ 60 meia hora  
-  [https://gparena.net/td-show.php?t=8018](https://gparena.net/td-show.php?t=8018)
+  [Link](https://gparena.net/td-show.php?t=8018)
 
-### R$ 120/h
-
+## R$ 120/h
 - **Diego House**  
   Localização: Jacarepaguá  
-  [https://gparena.net/td-show.php?t=6582](https://gparena.net/td-show.php?t=6582)
+  [Link](https://gparena.net/td-show.php?t=6582)
 
 - **Angel Garcia**  
   Localização: Centro  
-  [https://www.gparena.net/social-feed-user.php?id=22455](https://www.gparena.net/social-feed-user.php?id=22455)  
-  [https://gparena.net/td-show.php?t=9518](https://gparena.net/td-show.php?t=9518)
+  [Link](https://www.gparena.net/social-feed-user.php?id=22455)  
+  [Link](https://gparena.net/td-show.php?t=9518)
 
-### R$ 150/h
+## R$ 150/h
 - **Ariella Miller**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=6854](https://gparena.net/social-feed-user.php?id=6854)
+  [Link](https://gparena.net/social-feed-user.php?id=6854)
 
 - **Carlinha**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=8661](https://gparena.net/social-feed-user.php?id=8661)
+  [Link](https://gparena.net/social-feed-user.php?id=8661)
 
 - **Coroa Rosa**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=18059](https://gparena.net/social-feed-user.php?id=18059)
+  [Link](https://gparena.net/social-feed-user.php?id=18059)
 
 - **Dark Room**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=3741](https://gparena.net/td-show.php?t=3741)
+  [Link](https://gparena.net/td-show.php?t=3741)
 
 - **Centro Bellas**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=121](https://gparena.net/td-show.php?t=121)
+  [Link](https://gparena.net/td-show.php?t=121)
 
 - **Ísis Borboleta**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=1044](https://gparena.net/td-show.php?t=1044)
+  [Link](https://gparena.net/td-show.php?t=1044)
 
 - **Luna Chaveirinho**  
   Localização: Centro  
-  [https://gparena.net/tdfull.php?td=34280](https://gparena.net/tdfull.php?td=34280)
+  [Link](https://gparena.net/tdfull.php?td=34280)
 
 - **Hellen Petrovick**  
   Localização: Centro  
-  [https://www.gparena.net/social-feed-user.php?id=25638](https://www.gparena.net/social-feed-user.php?id=25638)
+  [Link](https://www.gparena.net/social-feed-user.php?id=25638)
 
 - **Nati Oliver**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=8111](https://gparena.net/social-feed-user.php?id=8111)
+  [Link](https://gparena.net/social-feed-user.php?id=8111)
 
 - **Lívia Torres**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=26922](https://gparena.net/social-feed-user.php?id=26922)
+  [Link](https://gparena.net/social-feed-user.php?id=26922)
 
 - **Pantera**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=22303](https://gparena.net/social-feed-user.php?id=22303)
+  [Link](https://gparena.net/social-feed-user.php?id=22303)
 
 - **Samantha Bella**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=28627](https://gparena.net/social-feed-user.php?id=28627)
+  [Link](https://gparena.net/social-feed-user.php?id=28627)
 
-### R$ 160/h
+## R$ 160/h
 - **Monique Bittencourt**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=27081](https://gparena.net/social-feed-user.php?id=27081)
+  [Link](https://gparena.net/social-feed-user.php?id=27081)
 
-### R$ 170/h
-
+## R$ 170/h
 - **Horus Terapias**  
   Localização: Tijuca  
-  [https://gparena.net/td-show.php?t=2204](https://gparena.net/td-show.php?t=2204)
+  [Link](https://gparena.net/td-show.php?t=2204)
 
 - **Lara X**  
   Localização: Centro  
-  [https://gparena.net/tdfull.php?td=27996](https://gparena.net/tdfull.php?td=27996)
+  [Link](https://gparena.net/tdfull.php?td=27996)
 
-
-### R$ 180/h
-
+## R$ 180/h
 - **Brenda Baby**  
   Localização: S/local  
-  [https://gparena.net/td-show.php?t=2679](https://gparena.net/td-show.php?t=2679)
+  [Link](https://gparena.net/td-show.php?t=2679)
 
 - **Onix**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=5](https://gparena.net/td-show.php?t=5)
+  [Link](https://gparena.net/td-show.php?t=5)
 
 - **Nubia Fernandes**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=1487](https://gparena.net/td-show.php?t=1487)
+  [Link](https://gparena.net/td-show.php?t=1487)
 
 - **Carol Saraiva**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=3057](https://gparena.net/td-show.php?t=3057)
-
-
+  [Link](https://gparena.net/td-show.php?t=3057)
 
 - **Barbie Sereia**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=4472](https://gparena.net/td-show.php?t=4472)
+  [Link](https://gparena.net/td-show.php?t=4472)
 
 - **Marcela Lessa**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=7962](https://gparena.net/td-show.php?t=7962)
+  [Link](https://gparena.net/td-show.php?t=7962)
 
-### R$ 190/h
+## R$ 190/h
 - **Bella Brandão**  
   Localização: Centro  
-  [https://www.gparena.net/td-show.php?t=10759](https://www.gparena.net/td-show.php?t=10759)
+  [Link](https://www.gparena.net/td-show.php?t=10759)
 
 - **Clara Dias**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=23881](https://gparena.net/social-feed-user.php?id=23881)
+  [Link](https://gparena.net/social-feed-user.php?id=23881)
 
 - **Lívia Louise**  
   Localização: Centro  
-  [https://gparena.net/social-feed-user.php?id=24874](https://gparena.net/social-feed-user.php?id=24874)
+  [Link](https://gparena.net/social-feed-user.php?id=24874)
 
-### R$ 200/h
-
+## R$ 200/h
 - **Julia Araújo**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=4568](https://gparena.net/td-show.php?t=4568)
-
+  [Link](https://gparena.net/td-show.php?t=4568)
 
 - **Alice Tijuca**  
   Localização: Tijuca  
-  [https://gparena.net/td-show.php?t=196](https://gparena.net/td-show.php?t=196)
-
+  [Link](https://gparena.net/td-show.php?t=196)
 
 - **Gabi Torres**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=8531](https://gparena.net/td-show.php?t=8531)  
+  [Link](https://gparena.net/td-show.php?t=8531)  
   [Perfil social](https://gparena.net/social-feed-user.php?id=22276)
 
 - **Yvy**  
   Localização: Largo do Machado  
-  [https://gparena.net/td-show.php?t=8005](https://gparena.net/td-show.php?t=8005)  
+  [Link](https://gparena.net/td-show.php?t=8005)  
   [Perfil social](https://gparena.net/social-feed-user.php?id=23882)
 
 - **Babi Andrade**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=8588](https://gparena.net/td-show.php?t=8588)  
+  [Link](https://gparena.net/td-show.php?t=8588)  
   [Perfil social](https://gparena.net/social-feed-user.php?id=20436)
 
 - **Lívia Prado**  
   Localização: 13M47  
-  [https://gparena.net/social-feed-user.php?id=17812](https://gparena.net/social-feed-user.php?id=17812)  
-  [https://gparena.net/td-show.php?t=7780](https://gparena.net/td-show.php?t=7780)
+  [Link](https://gparena.net/social-feed-user.php?id=17812)  
+  [Link](https://gparena.net/td-show.php?t=7780)
 
 - **Gaby Furtado**  
   Localização: Centro  
-  [https://www.gparena.net/td-show.php?t=5920](https://www.gparena.net/td-show.php?t=5920)
+  [Link](https://www.gparena.net/td-show.php?t=5920)
 
 - **Loren Andrade**  
   Localização: Largo do Machado  
-  [https://gparena.net/td-show.php?t=5657](https://gparena.net/td-show.php?t=5657)
+  [Link](https://gparena.net/td-show.php?t=5657)
 
 - **Bella Dias**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=1392](https://gparena.net/td-show.php?t=1392)
+  [Link](https://gparena.net/td-show.php?t=1392)
 
 - **Naomy Santos**  
   Localização: Valqueire  
-  [https://gparena.net/tdfull.php?td=35648](https://gparena.net/tdfull.php?td=35648)  
-  *(R$ 200/h)*
+  [Link](https://gparena.net/tdfull.php?td=35648)
 
-### R$ 220/h
+## R$ 220/h
 - **Flor de Lis**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=4](https://gparena.net/td-show.php?t=4)
+  [Link](https://gparena.net/td-show.php?t=4)
 
 - **Stella**  
-  Localização: Centro - AA37 
-  [https://www.rioencontro.com.br/stella/](https://www.rioencontro.com.br/stella/)
+  Localização: Centro - AA37  
+  [Link](https://www.rioencontro.com.br/stella/)
+
+- **Milena Martines**  
+  Localização: Não especificada  
+  [Link](https://gparena.net/social-feed-user.php?id=24058)
+
+## R$ 240/h
+- **Eva Sanchez**  
+  Localização: Não especificada  
+  [Link](https://gparena.net/social-feed-user.php?id=20751)
+
+## R$ 250/h
+- **Pamela**  
+  Localização: Centro  
+  [Link](https://gparena.net/td-show.php?t=1580)
+
+- **Julia Oliveira**  
+  Localização: Centro  
+  [Link](https://gparena.net/td-show.php?t=1456)
 
 ### R$ 250/h
 - **Pamela**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=1580](https://gparena.net/td-show.php?t=1580)
+  [Link](https://gparena.net/td-show.php?t=1580)
 
 - **Julia Oliveira**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=1456](https://gparena.net/td-show.php?t=1456)
+  [Link](https://gparena.net/td-show.php?t=1456)
+
+- **Giovanna Vitale**  
+  Localização: Centro  
+  [Link](https://www.gparena.net/social-feed-user.php?id=6714)
+
+- **Dani Alves**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=22063)
+
+- **Rayane Coimbra**  
+  Localização: Centro  
+  [Link](http://gparena.net/social-feed-user.php?id=14892)
+
+- **Marcela Leal**  
+  Localização: Centro  
+  [Link](http://www.gparena.net/social-feed-user.php?id=15560)
+
+- **Karina do Uber**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=17200)
+
+- **Alice Martins**  
+  Localização: Centro  
+  [Link](https://www.gparena.net/social-feed-user.php?id=17224)
+
+- **Luara Paz**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=28185)
+
+- **Milla Mineira**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=29828)
+
+- **Giovanna Branca**  
+  Localização: Centro  
+  [Link](http://gparena.net/social-feed-user.php?id=7900)
+
+- **Kelly Andrade**  
+  Localização: Centro  
+  [Link](https://www.gparena.net/social-feed-user.php?id=25938)
+
+- **Jeniffer Andrade**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=15836)
+
+- **Fernanda Diaz**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=20723)
+
+- **Stephanie Amaral**  
+  Localização: Centro  
+  [Link](http://gparena.net/social-feed-user.php?id=6421)
+
+- **Lana Flowers**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=17974)
+
+- **Agatha Cavaliere**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=25036)
+
+- **Amanda Vianna**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=27489)
+
+- **Milena Castro**  
+  Localização: Centro  
+  [Link](https://www.gparena.net/social-feed-user.php?id=21724)
+
+- **Karen Bellini**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=23292)
+
+- **Manu Leclerc**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=27272)
+
+- **Vanessa Mel**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=28190)
+
+- **Elisa Felix**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=26199)
+
+- **Sophia Louise**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=28774)
+
+- **Fernanda Parisi**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=24843)
+
+- **Lis Mulata**  
+  Localização: Centro  
+  [Link](https://www.gparena.net/social-feed-user.php?id=6854)
+
+- **Cassandra**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=26082)
+
+- **Anna Trinity**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=18918)
+
+- **Monique Moura**  
+  Localização: Centro  
+  [Link](http://www.gparena.net/social-feed-user.php?id=15451)
+
+- **Bruninha**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=15545)
+
+- **Raphaela Poeta**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=20680)
+
+- **Alicinha**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=24939)
+
+- **Marcella Kasada**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=16719)
+
+- **Lore Garcia**  
+  Localização: Centro  
+  [Link](https://www.gparena.net/social-feed-user.php?id=29771)
+
+- **Carolina Barbosa**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=25190)
+
+- **Mineirinha**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=26375)
 
 ### R$ 300/h
 - **Karina**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=5789](https://gparena.net/td-show.php?t=5789)
+  [Link](https://gparena.net/td-show.php?t=5789)
 
 - **Vicky**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=3670](https://gparena.net/td-show.php?t=3670)
+  [Link](https://gparena.net/td-show.php?t=3670)
 
 - **Michelle**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=3849](https://gparena.net/td-show.php?t=3849)
+  [Link](https://gparena.net/td-show.php?t=3849)
+
+- **Yasmin Miranda**  
+  Localização: Centro  
+  [Link](https://gparena.net/td-show.php?t=3379)
+
+- **Amanda Mel**  
+  Localização: Centro  
+  [Link](https://gparena.net/td-show.php?t=122)
+
+- **Roberta Miller**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=1358)
+
+- **Tatiane Lima**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=7890)
+
+### R$ 350/h
+- **Brunna Stefanie**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=29660)
 
 ### R$ 400/h
-
-- **RAFAELA PAULISTA**  
+- **Rafaela Paulista**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=1567](https://gparena.net/td-show.php?t=1567)
+  [Link](https://gparena.net/td-show.php?t=1567)
 
 - **Oceano**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=367](https://gparena.net/td-show.php?t=367)
+  [Link](https://gparena.net/td-show.php?t=367)
+
+### R$ 500/h
+- **Lilly**  
+  Localização: Centro  
+  [Link](https://gparena.net/social-feed-user.php?id=23478)
