@@ -16,8 +16,7 @@
 
 - **Luna Chaveirinho**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=9234](https://gparena.net/td-show.php?t=9234)  
-  [Perfil social](https://gparena.net/social-feed-user.php?id=22057)
+  [https://gparena.net/tdfull.php?td=34280](https://gparena.net/tdfull.php?td=34280)
 
 - **Anne Souza**  
   Localização: Centro  
@@ -36,7 +35,7 @@
 
 - **Lara X**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=6641](https://gparena.net/td-show.php?t=6641)
+  [https://gparena.net/tdfull.php?td=27996](https://gparena.net/tdfull.php?td=27996)
 
 - **Alice Tijuca**  
   Localização: Tijuca  
@@ -54,6 +53,11 @@
 - **Carol Saraiva**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=3057](https://gparena.net/td-show.php?t=3057)
+
+- **Jéssica Vasconcellos**  
+  Localização: Centro  
+  [https://gparena.net/tdfull.php?td=34763](https://gparena.net/tdfull.php?td=34763)  
+  *(Às vezes, promoção a R$ 180,00)*
 
 ### R$ 200/h
 - **Gabi Torres**  
@@ -86,3 +90,8 @@
 - **Bella Dias**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=1392](https://gparena.net/td-show.php?t=1392)
+
+- **Naomy Santos**  
+  Localização: Valqueire  
+  [https://gparena.net/tdfull.php?td=35648](https://gparena.net/tdfull.php?td=35648)  
+  *(R$ 200,00 e R$ 120 meia hora)*
