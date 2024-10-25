@@ -182,9 +182,9 @@
   Localização: Centro  
   [https://gparena.net/td-show.php?t=4](https://gparena.net/td-show.php?t=4)
 
-  - **Stella**  
+- **Stella**  
   Localização: Centro - AA37 
-  [ https://www.rioencontro.com.br/stella/](https://www.rioencontro.com.br/stella/ )
+  [https://www.rioencontro.com.br/stella/](https://www.rioencontro.com.br/stella/)
 
 ### R$ 250/h
 - **Pamela**  
