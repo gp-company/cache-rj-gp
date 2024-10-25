@@ -38,10 +38,22 @@
   Localização: Centro  
   [https://gparena.net/td-show.php?t=6641](https://gparena.net/td-show.php?t=6641)
 
+- **Alice Tijuca**  
+  Localização: Tijuca  
+  [https://gparena.net/td-show.php?t=196](https://gparena.net/td-show.php?t=196)
+
 ### R$ 180/h
 - **Onix**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=5](https://gparena.net/td-show.php?t=5)
+
+- **Nubia Fernandes**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=1487](https://gparena.net/td-show.php?t=1487)
+
+- **Carol Saraiva**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=3057](https://gparena.net/td-show.php?t=3057)
 
 ### R$ 200/h
 - **Gabi Torres**  
@@ -70,3 +82,7 @@
 - **Loren Andrade**  
   Localização: Largo do Machado  
   [https://gparena.net/td-show.php?t=5657](https://gparena.net/td-show.php?t=5657)
+
+- **Bella Dias**  
+  Localização: Centro  
+  [https://gparena.net/td-show.php?t=1392](https://gparena.net/td-show.php?t=1392)
