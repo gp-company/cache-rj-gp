@@ -86,9 +86,6 @@
   Localização: Centro  
   [https://gparena.net/tdfull.php?td=27996](https://gparena.net/tdfull.php?td=27996)
 
-- **Alice Tijuca**  
-  Localização: Tijuca  
-  [https://gparena.net/td-show.php?t=196](https://gparena.net/td-show.php?t=196)
 
 ### R$ 180/h
 
@@ -138,6 +135,12 @@
   [https://gparena.net/social-feed-user.php?id=24874](https://gparena.net/social-feed-user.php?id=24874)
 
 ### R$ 200/h
+
+- **Alice Tijuca**  
+  Localização: Tijuca  
+  [https://gparena.net/td-show.php?t=196](https://gparena.net/td-show.php?t=196)
+
+
 - **Gabi Torres**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=8531](https://gparena.net/td-show.php?t=8531)  
