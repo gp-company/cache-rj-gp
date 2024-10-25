@@ -9,6 +9,11 @@
   Localização: Centro  
   [https://gparena.net/tdfull.php?td=28395](https://gparena.net/tdfull.php?td=28395)
 
+- **Cybele**  
+  Localização: Nilópolis/RJ  
+  R$ 100/h e R$ 60 meia hora  
+  [https://gparena.net/td-show.php?t=8018](https://gparena.net/td-show.php?t=8018)
+
 ### R$ 150/h
 - **Coroa Rosa**  
   Localização: Centro  
@@ -39,6 +44,11 @@
 - **Carlinha**  
   Localização: Centro  
   [https://gparena.net/td-show.php?t=3287](https://gparena.net/td-show.php?t=3287)
+
+- **Lu Sampaio**  
+  Localização: Meier  
+  1h hoje, por 150 reais  
+  [https://gparena.net/tdfull.php?td=35084](https://gparena.net/tdfull.php?td=35084)
 
 ### R$ 170/h
 - **Brenda Baby**  
@@ -103,9 +113,11 @@
   [https://gparena.net/td-show.php?t=8588](https://gparena.net/td-show.php?t=8588)  
   [Perfil social](https://gparena.net/social-feed-user.php?id=20436)
 
-- **Lu Sampaio**  
-  Localização: Méier  
-  [https://gparena.net/td-show.php?t=10283](https://gparena.net/td-show.php?t=10283)
+- **Lívia Prado**  
+  Localização: 13M47  
+  R$ 200  
+  [https://gparena.net/social-feed-user.php?id=17812](https://gparena.net/social-feed-user.php?id=17812)  
+  [https://gparena.net/td-show.php?t=7780](https://gparena.net/td-show.php?t=7780)
 
 - **Gaby Furtado**  
   Localização: Centro  
@@ -156,28 +168,36 @@
   Localização: Niterói  
   [https://gparena.net/td-show.php?t=8520](https://gparena.net/td-show.php?t=8520)
 
-- **Pantera Carioca**  
-  Localização: S/local  
-  [https://gparena.net/td-show.php?t=9561](https://gparena.net/td-show.php?t=9561)
+- **Milly Bianco**  
+  Localização: Centro (13M47)  
+  R$ 200/h (com promoção de 30 min por R$ 100 até o final de Fev/2024)  
+  [https://gparena.net/td-show.php?t=10851](https://gparena.net/td-show.php?t=10851)
 
-- **Sheron Tomazely**  
+### R$ 190/h
+- **Bella Brandão**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=3350](https://gparena.net/td-show.php?t=3350)
+  [https://www.gparena.net/td-show.php?t=10759](https://www.gparena.net/td-show.php?t=10759)
 
-- **Letícia Massagista**  
-  Localização: Méier  
-  [https://gparena.net/td-show.php?t=9870](https://gparena.net/td-show.php?t=9870)
-
-- **Carol Terapeuta**  
-  Localização: Tijuca  
-  [https://gparena.net/social-feed-user.php?id=12287](https://gparena.net/social-feed-user.php?id=12287)
-
-- **Fernanda Lima**  
+- **Clara Dias**  
   Localização: Centro  
-  [https://gparena.net/td-show.php?t=7894](https://gparena.net/td-show.php?t=7894)
+  R$ 180,00  
+  Um oral gostoso pra caramba!!!  
+  [https://gparena.net/td-show.php?t=10049](https://gparena.net/td-show.php?t=10049)
 
-- **Pamela Winston**  
-  Localização: Centro - Álvaro Alvim 37  
-  R$ 180 sempre traz promoções para floristas  
-  [https://gparena.net/social-feed-user.php?id=14405](https://gparena.net/social-feed-user.php?id=14405)
+- **Milena Silveira**  
+  Localização: Niterói  
+  Nosso último atendimento paguei R$ 200,00  
+  [https://gparena.net/social-feed-user.php?id=12937](https://gparena.net/social-feed-user.php?id=12937)
 
+- **Angel Garcia**  
+  Localização: Centro  
+  R$ 120/h  
+  [https://www.gparena.net/social-feed-user.php?id=22455](https://www.gparena.net/social-feed-user.php?id=22455)  
+  [https://gparena.net/td-show.php?t=9518](https://gparena.net/td-show.php?t=9518)
+
+### Nomes Repetidos
+1. **Centro**: Presente em várias entradas.
+2. **R$ 200/h**: Várias meninas nessa faixa de preço.
+3. **R$ 180/h**: Inclui várias opções.
+4. **Milly Bianco**: Repetido no início e no final do texto.
+5. **Lívia Prado**: Repetido no início e no final do texto.
