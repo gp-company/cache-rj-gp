@@ -2,7 +2,6 @@ Temos o prazer de apresentar uma lista de preços organizada com as profissionai
 
 Cada entrada foi selecionada com base nos registros mais recentes e confiáveis, garantindo que você obtenha apenas as informações atualizadas, priorizando os registros mais recentes de cada profissional.
 
-Lista com todos os links:
+Lista com todos os preços:
 
-https://github.com/gp-company/cache-rj-gp
-
+https://codepen.io/gp-company/pen/yLmpbQM
