@@ -1,6 +1,6 @@
 [b]Locais e Valores por Hora[/b]
 
-[b]R$ 100/h[/b]
+[b]############### R$ 100/h[/b]
 - [b]Maitê Brandão[/b]  
   Localização: Centro  
   [url=https://gparena.net/tdfull.php?td=28395]Link[/url]
@@ -10,7 +10,7 @@
   R$ 100/h e R$ 60 meia hora  
   [url=https://gparena.net/td-show.php?t=8018]Link[/url]
 
-[b]R$ 120/h[/b]
+[b]############### R$ 120/h[/b]
 - [b]Diego House[/b]  
   Localização: Jacarepaguá  
   [url=https://gparena.net/td-show.php?t=6582]Link[/url]
@@ -20,7 +20,7 @@
   [url=https://www.gparena.net/social-feed-user.php?id=22455]Link[/url]  
   [url=https://gparena.net/td-show.php?t=9518]Link[/url]
 
-[b]R$ 150/h[/b]
+[b]############### R$ 150/h[/b]
 - [b]Ariella Miller[/b]  
   Localização: Centro  
   [url=https://gparena.net/social-feed-user.php?id=6854]Link[/url]
@@ -65,12 +65,12 @@
   Localização: Centro  
   [url=https://gparena.net/social-feed-user.php?id=28627]Link[/url]
 
-[b]R$ 160/h[/b]
+[b]############### R$ 160/h[/b]
 - [b]Monique Bittencourt[/b]  
   Localização: Centro  
   [url=https://gparena.net/social-feed-user.php?id=27081]Link[/url]
 
-[b]R$ 170/h[/b]
+[b]############### R$ 170/h[/b]
 - [b]Horus Terapias[/b]  
   Localização: Tijuca  
   [url=https://gparena.net/td-show.php?t=2204]Link[/url]
@@ -79,7 +79,7 @@
   Localização: Centro  
   [url=https://gparena.net/tdfull.php?td=27996]Link[/url]
 
-[b]R$ 180/h[/b]
+[b]############### R$ 180/h[/b]
 - [b]Brenda Baby[/b]  
   Localização: S/local  
   [url=https://gparena.net/td-show.php?t=2679]Link[/url]
@@ -104,7 +104,7 @@
   Localização: Centro  
   [url=https://gparena.net/td-show.php?t=7962]Link[/url]
 
-[b]R$ 190/h[/b]
+[b]############### R$ 190/h[/b]
 - [b]Bella Brandão[/b]  
   Localização: Centro  
   [url=https://www.gparena.net/td-show.php?t=10759]Link[/url]
@@ -117,7 +117,7 @@
   Localização: Centro  
   [url=https://gparena.net/social-feed-user.php?id=24874]Link[/url]
 
-[b]R$ 200/h[/b]
+[b]############### R$ 200/h[/b]
 - [b]Julia Araújo[/b]  
   Localização: Centro  
   [url=https://gparena.net/td-show.php?t=4568]Link[/url]
@@ -153,7 +153,7 @@
   Localização: Valqueire  
   [url=https://gparena.net/tdfull.php?td=35648]Link[/url]
 
-[b]R$ 220/h[/b]
+[b]############### R$ 220/h[/b]
 - [b]Flor de Lis[/b]  
   Localização: Centro  
   [url=https://gparena.net/td-show.php?t=4]Link[/url]
@@ -166,9 +166,14 @@
   Localização: Não especificada  
   [url=https://gparena.net/social-feed-user.php?id=24058]Link[/url]
 
-[b]R$ 240/h[/b]
+[b]############### R$ 240/h[/b]
 
-[b]R$ 250/h[/b]
+[b]############### R$ 250/h[/b]
+
+- [b]Pamela[/b]  
+  Localização: Centro  
+  [url=https://gparena.net/td-show.php?t=1580]Link[/url]
+
 - [b]Pamela[/b]  
   Localização: Centro  
   [url=https://gparena.net/td-show.php?t=1580]Link[/url]
@@ -177,7 +182,7 @@
   Localização: Centro  
   [url=https://gparena.net/td-show.php?t=1456]Link[/url]
 
-[b]R$ 300/h[/b]
+[b]############### R$ 300/h[/b]
 - [b]Eva Sanchez[/b]  
   Localização: Não especificada  
   [url=https://gparena.net/td-show.php?t=5183]Relatos[/url]  
@@ -191,17 +196,17 @@
   Localização: Centro  
   [url=https://gparena.net/td-show.php?t=3670]Link[/url]
 
-[b]R$ 350/h[/b]
+[b]############### R$ 350/h[/b]
 - [b]Brunna Stefanie[/b]  
   Localização: Centro  
   [url=https://gparena.net/social-feed-user.php?id=29660]Link[/url]
 
-[b]R$ 400/h[/b]
+[b]############### R$ 400/h[/b]
 - [b]Gabi Paloma[/b]  
   Localização: Não especificada  
   [url=https://gparena.net/td-show.php?t=5097]Link[/url]
 
-[b]R$ 500/h[/b]
+[b]############### R$ 500/h[/b]
 - [b]Laís Muniz[/b]  
   Localização: Centro  
   [url=https://gparena.net/td-show.php?t=1882]Link[/url]
