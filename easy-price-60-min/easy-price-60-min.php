@@ -3,7 +3,7 @@
 $host = 'localhost';
 $dbname = 'ezxy_5343543523324_mysitename';
 $username = 'root';
-$password = '';
+$password = ''; // Sem senha
 
 try {
     // Conexão ao banco de dados usando PDO
@@ -28,6 +28,7 @@ try {
               AND job_price > 0
               AND is_fake = 0 
               AND date_created > '2024-01-01 00:00:01'
+              AND evaluation = 'POSITIVO'  -- Novo filtro para avaliação positiva
         )
         SELECT 
             escort_name, 
@@ -48,10 +49,27 @@ try {
     $html = "<h2>Relatório de Acompanhantes - 60 Minutos</h2>";
     $html .= "<ul>";
 
+    $lastPrice = null; // Variável para armazenar o último preço
+
     // Loop pelos resultados da consulta
     while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
-        $html .= "<li>";
-        $html .= "<strong>Nome da GP:</strong> " . htmlspecialchars($row['escort_name']) . "<br>";
+        // Verifica se td_head contém "social-feed-user"
+        $highlightClass = strpos($row['td_head'], 'social-feed-user') !== false ? 'highlight' : '';
+
+        // Texto adicional para acompanhantes que anunciam no GPARENA
+        $additionalText = $highlightClass ? " (Anuncia no GPARENA)" : "";
+
+        // Verifica se há mudança de preço
+        if ($lastPrice !== null && $row['job_price'] != $lastPrice) {
+            $html .= "<li style='font-weight: bold; color: #ff6600;'>--- O valor correspondente: Região dos R$ " . number_format($row['job_price'], 2, ',', '.') . " ---</li>"; // Divisória
+        }
+
+        // Atualiza o último preço
+        $lastPrice = $row['job_price'];
+
+        // Adiciona o item ao relatório
+        $html .= "<li class='$highlightClass'>";
+        $html .= "<strong>Nome da GP:</strong> " . htmlspecialchars($row['escort_name']) . $additionalText . "<br>";
         $html .= "<strong>1h:</strong> R$ " . number_format($row['job_price'], 2, ',', '.') . "<br>";
         $html .= "<strong>Link do último relato:</strong> <a href='" . htmlspecialchars($row['td_link']) . "'>" . htmlspecialchars($row['td_link']) . "</a><br>";
         $html .= "<strong>Título do Relato:</strong> " . htmlspecialchars($row['td_head']) . "<br>";
@@ -60,6 +78,18 @@ try {
     }
 
     $html .= "</ul>";
+
+    // Estilo para destacar resultados
+    $html .= "
+    <style>
+        .highlight {
+            background-color: #ffffcc; /* Cor de fundo amarelo claro */
+            border: 1px solid #ffcc00; /* Borda amarela */
+            padding: 10px;
+            margin-bottom: 5px;
+        }
+    </style>
+    ";
 
     // Exibição do relatório em HTML
     echo $html;
