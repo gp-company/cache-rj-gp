@@ -29,6 +29,7 @@ try {
               AND is_fake = 0 
               AND date_created > '2024-01-01 00:00:01'
               AND evaluation = 'POSITIVO'  -- Novo filtro para avaliação positiva
+              AND td_head LIKE '%social-feed-user%'  -- Filtro para td_head
         )
         SELECT 
             escort_name, 
@@ -51,6 +52,10 @@ try {
 
     $lastPrice = null; // Variável para armazenar o último preço
 
+    // Array para armazenar valores de BBCode
+    $bbcodeUnder200 = "[size=150]Valores até R$ 200:[/size]\n";
+    $bbcodeOver200 = "[size=150]Valores de R$ 200 ou mais:[/size]\n";
+
     // Loop pelos resultados da consulta
     while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
         // Verifica se td_head contém "social-feed-user"
@@ -61,11 +66,14 @@ try {
 
         // Verifica se há mudança de preço
         if ($lastPrice !== null && $row['job_price'] != $lastPrice) {
-            $html .= "<li style='font-weight: bold; color: #ff6600;'>--- O valor correspondente: Região dos R$ " . number_format($row['job_price'], 2, ',', '.') . " ---</li>"; // Divisória
+            $html .= "<li style='font-weight: bold; color: #ff6600; font-size: 1.2em;'><strong>Mudança de Preço:</strong> Região dos R$ " . number_format($row['job_price'], 2, ',', '.') . "</li>"; // Divisória com título
         }
 
         // Atualiza o último preço
         $lastPrice = $row['job_price'];
+
+        // Converte a data para o padrão brasileiro
+        $formattedDate = date("d/m/Y H:i:s", strtotime($row['date_created']));
 
         // Adiciona o item ao relatório
         $html .= "<li class='$highlightClass'>";
@@ -73,8 +81,23 @@ try {
         $html .= "<strong>1h:</strong> R$ " . number_format($row['job_price'], 2, ',', '.') . "<br>";
         $html .= "<strong>Link do último relato:</strong> <a href='" . htmlspecialchars($row['td_link']) . "'>" . htmlspecialchars($row['td_link']) . "</a><br>";
         $html .= "<strong>Título do Relato:</strong> " . htmlspecialchars($row['td_head']) . "<br>";
-        $html .= "<strong>Data de Criação:</strong> " . htmlspecialchars($row['date_created']) . "<br>";
+        $html .= "<strong>Data de Criação:</strong> " . htmlspecialchars($formattedDate) . "<br>";
         $html .= "</li><br>";
+
+        // Adiciona ao BBCode apropriado
+        if ($row['job_price'] < 200) {
+            $bbcodeUnder200 .= "[b]Nome da GP:[/b] " . htmlspecialchars($row['escort_name']) . $additionalText . "\n";
+            $bbcodeUnder200 .= "[b]1h:[/b] R$ " . number_format($row['job_price'], 2, ',', '.') . "\n";
+            $bbcodeUnder200 .= "[b]Link do último relato:[/b] [url=" . htmlspecialchars($row['td_link']) . "]" . htmlspecialchars($row['td_link']) . "[/url]\n";
+            $bbcodeUnder200 .= "[b]Título do Relato:[/b] " . htmlspecialchars($row['td_head']) . "";
+            $bbcodeUnder200 .= "[b]Data de Criação:[/b] " . htmlspecialchars($formattedDate) . "\n\n";
+        } else {
+            $bbcodeOver200 .= "[b]Nome da GP:[/b] " . htmlspecialchars($row['escort_name']) . $additionalText . "\n";
+            $bbcodeOver200 .= "[b]1h:[/b] R$ " . number_format($row['job_price'], 2, ',', '.') . "\n";
+            $bbcodeOver200 .= "[b]Link do último relato:[/b] [url=" . htmlspecialchars($row['td_link']) . "]" . htmlspecialchars($row['td_link']) . "[/url]\n";
+            $bbcodeOver200 .= "[b]Título do Relato:[/b] " . htmlspecialchars($row['td_head']) . " ";
+            $bbcodeOver200 .= "[b]Data de Criação:[/b] " . htmlspecialchars($formattedDate) . "\n\n";
+        }
     }
 
     $html .= "</ul>";
@@ -91,8 +114,19 @@ try {
     </style>
     ";
 
+    // Adiciona a fonte ao final dos campos BBCode
+    $bbcodeUnder200 .= "Fonte: https://github.com/gp-company/cache-rj-gp\n";
+    $bbcodeOver200 .= "Fonte: https://github.com/gp-company/cache-rj-gp\n";
+
     // Exibição do relatório em HTML
     echo $html;
+
+    // Exibição da caixa de texto com o BBCode
+    echo "<h3>BBCode Gerado - Valores até R$ 200:</h3>";
+    echo "<textarea rows='10' cols='80' readonly>" . htmlspecialchars($bbcodeUnder200) . "</textarea>";
+
+    echo "<h3>BBCode Gerado - Valores de R$ 200 ou mais:</h3>";
+    echo "<textarea rows='10' cols='80' readonly>" . htmlspecialchars($bbcodeOver200) . "</textarea>";
 
 } catch (PDOException $e) {
     // Tratamento de erros de conexão
