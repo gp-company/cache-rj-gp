@@ -4,7 +4,7 @@ Cada entrada foi selecionada com base nos registros mais recentes e confiáveis,
 
 Lista com todos os links:
 
-https://github.com/gp-company/cache-rj-gp/blob/main/BBcode.txt
+[https://github.com/gp-company/cache-rj-gp/blob/main/BBcode.txt](https://codepen.io/gp-company/pen/yLmpbQM)
 
 
 
