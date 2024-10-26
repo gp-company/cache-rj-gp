@@ -85,7 +85,7 @@ try {
         $html .= "</li><br>";
 
         // Adiciona ao BBCode apropriado
-        if ($row['job_price'] < 200) {
+        if ($row['job_price'] <= 200) {
             $bbcodeUnder200 .= "[b]Nome da GP:[/b] " . htmlspecialchars($row['escort_name']) . $additionalText . "\n";
             $bbcodeUnder200 .= "[b]1h:[/b] R$ " . number_format($row['job_price'], 2, ',', '.') . "\n";
             $bbcodeUnder200 .= "[b]Link do último relato:[/b] [url=" . htmlspecialchars($row['td_link']) . "]" . htmlspecialchars($row['td_link']) . "[/url]\n";
