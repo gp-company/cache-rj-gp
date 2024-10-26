@@ -41,10 +41,6 @@
   Localização: Centro  
   [Link](https://gparena.net/td-show.php?t=121)
 
-- **Ísis Borboleta**  
-  Localização: Centro  
-  [Link](https://gparena.net/td-show.php?t=1044)
-
 - **Luna Chaveirinho**  
   Localização: Centro  
   [Link](https://gparena.net/tdfull.php?td=34280)
@@ -140,19 +136,10 @@
   [Link](https://gparena.net/td-show.php?t=8005)  
   [Perfil social](https://gparena.net/social-feed-user.php?id=23882)
 
-- **Babi Andrade**  
-  Localização: Centro  
-  [Link](https://gparena.net/td-show.php?t=8588)  
-  [Perfil social](https://gparena.net/social-feed-user.php?id=20436)
-
 - **Lívia Prado**  
   Localização: 13M47  
   [Link](https://gparena.net/social-feed-user.php?id=17812)  
   [Link](https://gparena.net/td-show.php?t=7780)
-
-- **Gaby Furtado**  
-  Localização: Centro  
-  [Link](https://www.gparena.net/td-show.php?t=5920)
 
 - **Loren Andrade**  
   Localização: Largo do Machado  
@@ -180,9 +167,7 @@
   [Link](https://gparena.net/social-feed-user.php?id=24058)
 
 ## R$ 240/h
-- **Eva Sanchez**  
-  Localização: Não especificada  
-  [Link](https://gparena.net/social-feed-user.php?id=20751)
+
 
 ## R$ 250/h
 - **Pamela**  
@@ -339,6 +324,12 @@
   [Link](https://gparena.net/social-feed-user.php?id=26375)
 
 ### R$ 300/h
+
+- **Eva Sanchez**  
+  Localização: Não especificada  
+  [Relatos](https://gparena.net/td-show.php?t=5183)
+  [Link](https://gparena.net/social-feed-user.php?id=20751)
+
 - **Karina**  
   Localização: Centro  
   [Link](https://gparena.net/td-show.php?t=5789)
